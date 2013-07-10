@@ -6,7 +6,7 @@ from setuptools import setup
 
 setup(
     name="julython-github",
-    version="0.1.0",
+    version="0.1.1",
     scripts = [
         'scripts/julython_github.py'
     ],
